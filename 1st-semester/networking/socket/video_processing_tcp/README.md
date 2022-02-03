@@ -1,7 +1,7 @@
 # Realtime Multi-client Video-Processing-with-socket-programming using TCP-protocol.
 
 <p align="center">
-  <img src="images/multiclient-real-time-processing1.gif" width="500" height="300" />
+  <img src="images/multiclient-real-time-processing1.gif" width="800" height="600" />
 </p>
 
 Our application perform multi client video processing using the server hardware cabapilities which is handeled using threading.
