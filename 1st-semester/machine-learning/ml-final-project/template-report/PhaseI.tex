@@ -1,0 +1,255 @@
+\documentclass[5 pt]{article}
+\usepackage{graphics}
+\usepackage{graphicx}
+\usepackage{geometry}
+\usepackage{multicol}
+\usepackage[hidelinks]{hyperref}
+\usepackage{subcaption}
+\usepackage{fontawesome5}
+\usepackage{xcolor}
+%\usepackage{m}
+%\usepackage{lipsum}
+%\usepackage{mwe}
+\usepackage{amsmath}
+\geometry{a4paper,left=25mm,right=25mm, top=25mm, bottom=25mm}
+\usepackage[none]{hyphenat}
+\usepackage{fancyhdr}
+\pagestyle{fancy}
+\fancyhead{}
+\fancyhead[R]{AI in Medicine}
+\fancyhead[L]{ML Final Project}
+\begin{document}
+\begin{titlepage}
+\begin{figure}[ht] 
+\includegraphics[width=3.5cm]{1.png}
+
+
+\end{figure}
+%()(from right smaller goes left , up and down bigger goes up)
+\begin{picture}(50, 135)(-360, -160)
+ \includegraphics[scale=0.5]{2.png}
+\end{picture}
+
+\begin{center}
+
+\line(1,0){400}\\
+\large \textbf{ Artificial Intellegence in Medicine - Final Project\\ }
+
+\vspace{1cm}
+\large \textbf{10-Year Risk of Death of Individuals from the NHANES I Epidemiology Dataset}\\
+\line(1,0){400} \\
+\vspace{2cm}
+\faUsers\ Submitted to:\\
+Dr. Inas Yassin\\
+Eng. Christeen Adly\\
+
+\vspace{2cm}
+\faUser\ Submitted by:\\
+
+\begin{tabular}{ ||p{7cm}|p{3cm}|p{3cm}||  }
+\hline 
+\hline
+Name & Sec & BN \\
+\hline
+Mohamed Ahmed Abdelaziz  & 2 & 14 \\ 
+\hline 
+Mohamed Khaled Galloul & 2 & 15 \\ 
+\hline 
+Mohamed Abdelkareem Seyam & 2 & 18 \\ 
+\hline 
+Ahmed Mohamed Mohamed & 1 & 7 \\ 
+\hline 
+\hline
+\end{tabular} 
+
+\vspace{1cm}
+Cairo University\\
+
+Please let us know if we need to provide any further details.\\
+
+
+\faEnvelope\ \underline{\href{mailto:mohamed.ahmed997@eng-st.cu.edu.eg}{mohamed.ahmed997@eng-st.cu.edu.eg}}
+
+\hspace{-.7cm} \faEnvelope\ \underline{\href{mailto:mohamed.attia99@eng-st.cu.edu.eg}{mohamed.attia99@eng-st.cu.edu.eg}}
+
+
+
+\end{center}
+\end{titlepage}
+%\tableofcontents
+%\listoffigures
+\newpage
+
+
+\section{Data Science Problem}
+10-year risk of death of individuals from the NHANES I epidemiology dataset.\\
+
+The NHANES I Epidemiologic Follow-up Study (NHEFS) is a national longitudinal study that was jointly initiated by the National Center for Health Statistics and the National Institute on Aging in collaboration with other agencies of the Public Health Service. The NHEFS was designed to investigate the relationships between clinical, nutritional, and behavioral factors assessed in the first National Health and Nutrition Examination Survey NHANES I and subsequent morbidity, mortality, and hospital utilization, as well as changes in risk factors, functional limitation, and institutionalization.
+
+The NHEFS cohort includes all persons 25-74 years of age who completed a medical examination at NHANES I in 1971-75 (n = 14,407). It is comprised of a series of follow-up studies, four of which have been conducted to date. The first wave of data collection was conducted for all members of the NHEFS cohort from 1982 through 1984. It included tracing the cohort; conducting personal interviews with subjects or their proxies; measuring pulse rate, weight, and blood pressure of surviving participants; collecting hospital and nursing home records of overnight stays; and collecting death certificates of decedents.
+
+
+\subsection{Data File Description}
+The NHEFS public use data files are divided into four components. These are:
+
+\begin{itemize}
+
+\item \textbf{Vital and Tracing Status Data}\\
+The 1992 Vital and Tracing Status contains tracing, vital status, and demographic data for all 14,407 subjects for each wave of data collection.
+
+
+\item \textbf{Interview Data}\\
+The 1982-1984, 1986, 1987, and 1992 Interview data contain information collected from the subject and proxy interviews conducted during each follow-up period. When merged together, these files provide a complete follow-up history for each subject from baseline through the last completed interview.
+\\
+
+\item \textbf{Health Care Facility Stay Data}\\
+The 1982-1984, 1986, 1987, and 1992 Health Care Facility Stay data contain information collected during each follow-up period regarding overnight stays in health care facilities, including diagnostic and summary information abstracted from hospital and nursing home records. Supplemental Health Care Facility Stay data is used to provide information on overnight facility stays that occurred outside the reported follow-up period. When these five Health Care Facility Stay data files are merged together, they provide a history of all reported hospitalizations and institutionalizations from baseline through 1992.
+
+
+\item \textbf{Mortality Data}\\
+The 1992 Mortality Data contains death certificate information collected during each follow-up period coded according to ICD-9 multiple-cause-of-death procedures for all 4,497 decedents identified through 1992.
+
+\end{itemize}
+
+
+\subsection{Geographic Coverage}
+In the first National Health and Nutrition Examination Survey (NHANES I), data were collected from a national probability sample of the civilian non-institutionalized population. The NHANES I Epidemiologic Follow-up Study attempts to trace and interview all study subjects at their current location.
+
+\newpage
+\subsection{Features in Dataset}
+
+\begin{multicols}{4}
+	\begin{itemize}
+		\item  Age
+		\item  Diastolic BP
+		\item  Poverty index
+		\item  Race
+	\end{itemize}
+\columnbreak
+	\begin{itemize}
+		\item Red blood cells
+		\item Sedimentation rate
+		\item Serum Albumin
+		\item Serum Cholesterol
+	\end{itemize}
+\columnbreak
+	\begin{itemize}
+		\item Serum Iron
+		\item Serum Magnesium
+		\item Serum Protein
+		\item Sex
+				\item Systolic BP
+	\end{itemize}
+\columnbreak
+	\begin{itemize}
+		\item TS
+		\item White blood cells
+		\item BMI
+		\item TIBC
+				\item Pulse pressure
+	\end{itemize}
+		
+	
+	
+\end{multicols}
+
+
+\section{Available Dataset}
+
+\href{https://wwwn.cdc.gov/nchs/nhanes/nhefs/default.aspx/}{\hspace{6.5cm}
+\textcolor{blue}{\underline{Epidemiology Dataset}}}
+
+\section{Preprocessing}
+\subsection{Dealing with Missing Data}
+Missing data is a common occurrence in data analysis, that can be due to a variety of reasons, such as measuring instrument malfunction, respondents not willing or not able to supply information, and errors in the data collection process.
+
+\subsection{Feature Normalization / Scaling}
+Feature scaling is essential for machine learning algorithms that calculate distances between data. Therefore, the range of all features should be normalized so that each feature contributes approximately proportionately to the final distance. It also results in faster convergence.
+
+\subsection{Imputation Approaches} 
+Handle the missing values by replacing them with substituted values based on the other values that we have.
+
+\subsection{Handling class imbalance}
+
+\section{Candidate Features Proposed Methodologies}
+
+The importance of a feature is the increase in the prediction error of the model after we permuted the feature's values, which breaks the relationship between the feature and the true outcome.
+
+Feature importance is calculated after the model has fitted. In the features columns, it randomly shuffles/permutate each column without touching the target and other feature column and calculates how it affects the accuracy of the prediction of new shuffled data.
+\begin{itemize}
+
+
+\item applied after the model has been fitted. It selects each feature column one at a time and shuffles/permutate that column randomly
+\item Then it calculates how that affect the prediction/accuracy of the model
+\item If changing value of a feature column affect the accuracy of the model heavily then the importance of that column feature is higher. In this way, feature importance is calculated.
+
+\end{itemize}
+PCA is also a very good option to consider, generally called data reduction technique, is useful feature selection technique as it uses linear algebra to transform the dataset into a compressed form.\\
+
+\textbf{Proposed Methods:}\\
+\begin{enumerate}
+
+\item \textbf{We will implement PCA feature selection technique with the help of PCA class of scikit-learn Python library.}
+
+
+\item \textbf{we will implement 'Permutation importance' by the eli5 library.}
+\end{enumerate}
+
+
+
+\newpage
+
+\section{Candidate Classification and Regression techniques}
+
+\begin{itemize}
+\item Train the following models: SVM, Decision Tree, Random Forest, KNN and XGBoost.
+\item Select best three promising algorithms from the above.
+\item Apply hyperparameter grid search on each one of the three above and get each one's best parameters.
+\item Apply ensemble method(Bagging) on the three classifiers above.
+\item Apply a Grid search on the three classifiers above to get each one's best bagging parameters.
+\item Apply ensemble method(Boosting) on the three classifiers above.
+\item Apply ensemble method(voting) on the three classifier outputs above to get one optimum classifier.
+\item Apply PCA on the data and retry the same steps above.
+\item Compare the results with PCA and without PCA.
+\end{itemize}
+
+\subsection{Explore How a single feature affect our prediction}
+After we get the most important features of our model by our proposed methods in section 4;  We need to know how each feature affecting accuracy.
+
+For example, let's use the features 'Age'. We know that age is an important feature. But we don't know that the chance of death is increasing with age or decreasing. For knowing how single features affect our prediction we need to use a different technique called "Partial Dependence Plots".
+
+
+Partial Dependence Plots or PDP is also a very popular method. PDP is calculated after the model is fitted. We then use a single row from test data to predict the outcome. Instead of predicting one prediction, we repeatedly alter one variable of the row to make a series of prediction. For example, for our cervical cancer model, we take on a row from test data and repeatedly alter a single variable value like age, and then make a series of prediction. And we do these for multiple rows, then plot average predicted the outcome on vertical axes.
+
+
+Key things to remember for PDP:
+\begin{itemize}
+\item PDP calculated after a model is fitted.
+\item Use single row for prediction.
+\item Repeatedly alter a variable value to make a series prediction.
+\item Do that for multiple rows and plot the average prediction on the vertical axes.
+\end{itemize}
+
+\subsection{Explore Why our model predicted its predictions}
+now we want to know why an individual prediction is made. Why our model made such a prediction? We will know that by using a method named \textbf{'SHAP Values'}.
+
+
+SHAP Values (an acronym from SHapley Additive exPlanations) break down a prediction to show the impact of each feature [2]. It explains why a model made a certain prediction.  Based on certain features, we want to know how each feature together contribute to the prediction
+
+
+
+\section{Error Analysis}
+
+ Find a subgroup of the test data on which the model performs poorly.\\
+
+
+
+
+	
+
+
+\end{document}
+
+
+
+

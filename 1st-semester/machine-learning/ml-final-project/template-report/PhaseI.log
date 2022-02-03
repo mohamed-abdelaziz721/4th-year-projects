@@ -1,0 +1,697 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (MiKTeX 21.2) (preloaded format=pdflatex 2021.3.18)  11 JAN 2022 23:13
+entering extended mode
+**./PhaseI.tex
+(PhaseI.tex
+LaTeX2e <2020-10-01> patch level 4
+L3 programming layer <2021-02-18>
+(C:\Users\Mohamed Abdelaziz\AppData\Local\Programs\MiKTeX\tex/latex/base\articl
+e.cls
+Document Class: article 2020/04/10 v1.4m Standard LaTeX document class
+
+(C:\Users\Mohamed Abdelaziz\AppData\Local\Programs\MiKTeX\tex/latex/base\size10
+.clo
+File: size10.clo 2020/04/10 v1.4m Standard LaTeX file (size option)
+)
+\c@part=\count179
+\c@section=\count180
+\c@subsection=\count181
+\c@subsubsection=\count182
+\c@paragraph=\count183
+\c@subparagraph=\count184
+\c@figure=\count185
+\c@table=\count186
+\abovecaptionskip=\skip47
+\belowcaptionskip=\skip48
+\bibindent=\dimen138
+)
+(C:\Users\Mohamed Abdelaziz\AppData\Local\Programs\MiKTeX\tex/latex/graphics\gr
+aphics.sty
+Package: graphics 2020/08/30 v1.4c Standard LaTeX Graphics (DPC,SPQR)
+
+(C:\Users\Mohamed Abdelaziz\AppData\Local\Programs\MiKTeX\tex/latex/graphics\tr
+ig.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+(C:\Users\Mohamed Abdelaziz\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cf
+g\graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 105.
+
+(C:\Users\Mohamed Abdelaziz\AppData\Local\Programs\MiKTeX\tex/latex/graphics-de
+f\pdftex.def
+File: pdftex.def 2020/10/05 v1.2a Graphics/color driver for pdftex
+))
+(C:\Users\Mohamed Abdelaziz\AppData\Local\Programs\MiKTeX\tex/latex/graphics\gr
+aphicx.sty
+Package: graphicx 2020/09/09 v1.2b Enhanced LaTeX Graphics (DPC,SPQR)
+
+(C:\Users\Mohamed Abdelaziz\AppData\Local\Programs\MiKTeX\tex/latex/graphics\ke
+yval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks15
+)
+\Gin@req@height=\dimen139
+\Gin@req@width=\dimen140
+)
+(C:\Users\Mohamed Abdelaziz\AppData\Local\Programs\MiKTeX\tex/latex/geometry\ge
+ometry.sty
+Package: geometry 2020/01/02 v5.9 Page Geometry
+
+(C:\Users\Mohamed Abdelaziz\AppData\Local\Programs\MiKTeX\tex/generic/iftex\ifv
+tex.sty
+Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
+
+(C:\Users\Mohamed Abdelaziz\AppData\Local\Programs\MiKTeX\tex/generic/iftex\ift
+ex.sty
+Package: iftex 2020/03/06 v1.0d TeX engine tests
+))
+\Gm@cnth=\count187
+\Gm@cntv=\count188
+\c@Gm@tempcnt=\count189
+\Gm@bindingoffset=\dimen141
+\Gm@wd@mp=\dimen142
+\Gm@odd@mp=\dimen143
+\Gm@even@mp=\dimen144
+\Gm@layoutwidth=\dimen145
+\Gm@layoutheight=\dimen146
+\Gm@layouthoffset=\dimen147
+\Gm@layoutvoffset=\dimen148
+\Gm@dimlist=\toks16
+
+(C:\Users\Mohamed Abdelaziz\AppData\Local\Programs\MiKTeX\tex/latex/geometry\ge
+ometry.cfg))
+(C:\Users\Mohamed Abdelaziz\AppData\Local\Programs\MiKTeX\tex/latex/latex-tools
+\multicol.sty
+Package: multicol 2019/12/09 v1.8y multicolumn formatting (FMi)
+\c@tracingmulticols=\count190
+\mult@box=\box47
+\multicol@leftmargin=\dimen149
+\c@unbalance=\count191
+\c@collectmore=\count192
+\doublecol@number=\count193
+\multicoltolerance=\count194
+\multicolpretolerance=\count195
+\full@width=\dimen150
+\page@free=\dimen151
+\premulticols=\dimen152
+\postmulticols=\dimen153
+\multicolsep=\skip49
+\multicolbaselineskip=\skip50
+\partial@page=\box48
+\last@line=\box49
+\maxbalancingoverflow=\dimen154
+\mult@rightbox=\box50
+\mult@grightbox=\box51
+\mult@gfirstbox=\box52
+\mult@firstbox=\box53
+\@tempa=\box54
+\@tempa=\box55
+\@tempa=\box56
+\@tempa=\box57
+\@tempa=\box58
+\@tempa=\box59
+\@tempa=\box60
+\@tempa=\box61
+\@tempa=\box62
+\@tempa=\box63
+\@tempa=\box64
+\@tempa=\box65
+\@tempa=\box66
+\@tempa=\box67
+\@tempa=\box68
+\@tempa=\box69
+\@tempa=\box70
+\@tempa=\box71
+\@tempa=\box72
+\@tempa=\box73
+\@tempa=\box74
+\@tempa=\box75
+\@tempa=\box76
+\@tempa=\box77
+\@tempa=\box78
+\@tempa=\box79
+\@tempa=\box80
+\@tempa=\box81
+\@tempa=\box82
+\@tempa=\box83
+\@tempa=\box84
+\@tempa=\box85
+\@tempa=\box86
+\@tempa=\box87
+\@tempa=\box88
+\@tempa=\box89
+\@tempa=\box90
+\c@minrows=\count196
+\c@columnbadness=\count197
+\c@finalcolumnbadness=\count198
+\last@try=\dimen155
+\multicolovershoot=\dimen156
+\multicolundershoot=\dimen157
+\mult@nat@firstbox=\box91
+\colbreak@box=\box92
+\mc@col@check@num=\count199
+)
+(C:\Users\Mohamed Abdelaziz\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\hy
+perref.sty
+Package: hyperref 2021-02-27 v7.00k Hypertext links for LaTeX
+
+(C:\Users\Mohamed Abdelaziz\AppData\Local\Programs\MiKTeX\tex/generic/ltxcmds\l
+txcmds.sty
+Package: ltxcmds 2020-05-10 v1.25 LaTeX kernel commands for general use (HO)
+)
+(C:\Users\Mohamed Abdelaziz\AppData\Local\Programs\MiKTeX\tex/generic/pdftexcmd
+s\pdftexcmds.sty
+Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+(C:\Users\Mohamed Abdelaziz\AppData\Local\Programs\MiKTeX\tex/generic/infwarerr
+\infwarerr.sty
+Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
+)
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+(C:\Users\Mohamed Abdelaziz\AppData\Local\Programs\MiKTeX\tex/generic/kvsetkeys
+\kvsetkeys.sty
+Package: kvsetkeys 2019/12/15 v1.18 Key value parser (HO)
+)
+(C:\Users\Mohamed Abdelaziz\AppData\Local\Programs\MiKTeX\tex/generic/kvdefinek
+eys\kvdefinekeys.sty
+Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
+)
+(C:\Users\Mohamed Abdelaziz\AppData\Local\Programs\MiKTeX\tex/generic/pdfescape
+\pdfescape.sty
+Package: pdfescape 2019/12/09 v1.15 Implements pdfTeX's escape features (HO)
+)
+(C:\Users\Mohamed Abdelaziz\AppData\Local\Programs\MiKTeX\tex/latex/hycolor\hyc
+olor.sty
+Package: hycolor 2020-01-27 v1.10 Color options for hyperref/bookmark (HO)
+)
+(C:\Users\Mohamed Abdelaziz\AppData\Local\Programs\MiKTeX\tex/latex/letltxmacro
+\letltxmacro.sty
+Package: letltxmacro 2019/12/03 v1.6 Let assignment for LaTeX macros (HO)
+)
+(C:\Users\Mohamed Abdelaziz\AppData\Local\Programs\MiKTeX\tex/latex/auxhook\aux
+hook.sty
+Package: auxhook 2019-12-17 v1.6 Hooks for auxiliary files (HO)
+)
+(C:\Users\Mohamed Abdelaziz\AppData\Local\Programs\MiKTeX\tex/latex/kvoptions\k
+voptions.sty
+Package: kvoptions 2020-10-07 v3.14 Key value format for package options (HO)
+)
+\@linkdim=\dimen158
+\Hy@linkcounter=\count266
+\Hy@pagecounter=\count267
+
+(C:\Users\Mohamed Abdelaziz\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\pd
+1enc.def
+File: pd1enc.def 2021-02-27 v7.00k Hyperref: PDFDocEncoding definition (HO)
+Now handling font encoding PD1 ...
+... no UTF-8 mapping file for font encoding PD1
+)
+(C:\Users\Mohamed Abdelaziz\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\hy
+perref-langpatches.def
+File: hyperref-langpatches.def 2021-02-27 v7.00k Hyperref: patches for babel la
+nguages
+)
+(C:\Users\Mohamed Abdelaziz\AppData\Local\Programs\MiKTeX\tex/generic/intcalc\i
+ntcalc.sty
+Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
+)
+(C:\Users\Mohamed Abdelaziz\AppData\Local\Programs\MiKTeX\tex/generic/etexcmds\
+etexcmds.sty
+Package: etexcmds 2019/12/15 v1.7 Avoid name clashes with e-TeX commands (HO)
+)
+\Hy@SavedSpaceFactor=\count268
+
+(C:\Users\Mohamed Abdelaziz\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\pu
+enc.def
+File: puenc.def 2021-02-27 v7.00k Hyperref: PDF Unicode definition (HO)
+Now handling font encoding PU ...
+... no UTF-8 mapping file for font encoding PU
+)
+Package hyperref Info: Hyper figures OFF on input line 4192.
+Package hyperref Info: Link nesting OFF on input line 4197.
+Package hyperref Info: Hyper index ON on input line 4200.
+Package hyperref Info: Plain pages OFF on input line 4207.
+Package hyperref Info: Backreferencing OFF on input line 4212.
+Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
+Package hyperref Info: Bookmarks ON on input line 4445.
+\c@Hy@tempcnt=\count269
+
+(C:\Users\Mohamed Abdelaziz\AppData\Local\Programs\MiKTeX\tex/latex/url\url.sty
+\Urlmuskip=\muskip16
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+LaTeX Info: Redefining \url on input line 4804.
+\XeTeXLinkMargin=\dimen159
+
+(C:\Users\Mohamed Abdelaziz\AppData\Local\Programs\MiKTeX\tex/generic/bitset\bi
+tset.sty
+Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
+
+(C:\Users\Mohamed Abdelaziz\AppData\Local\Programs\MiKTeX\tex/generic/bigintcal
+c\bigintcalc.sty
+Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO
+)
+))
+\Fld@menulength=\count270
+\Field@Width=\dimen160
+\Fld@charsize=\dimen161
+Package hyperref Info: Hyper figures OFF on input line 6075.
+Package hyperref Info: Link nesting OFF on input line 6080.
+Package hyperref Info: Hyper index ON on input line 6083.
+Package hyperref Info: backreferencing OFF on input line 6090.
+Package hyperref Info: Link coloring OFF on input line 6095.
+Package hyperref Info: Link coloring with OCG OFF on input line 6100.
+Package hyperref Info: PDF/A mode OFF on input line 6105.
+LaTeX Info: Redefining \ref on input line 6145.
+LaTeX Info: Redefining \pageref on input line 6149.
+
+(C:\Users\Mohamed Abdelaziz\AppData\Local\Programs\MiKTeX\tex/latex/base\atbegs
+hi-ltx.sty
+Package: atbegshi-ltx 2020/08/17 v1.0a Emulation of the original atbegshi packa
+ge
+with kernel methods
+)
+\Hy@abspage=\count271
+\c@Item=\count272
+\c@Hfootnote=\count273
+)
+Package hyperref Info: Driver (autodetected): hpdftex.
+
+(C:\Users\Mohamed Abdelaziz\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\hp
+dftex.def
+File: hpdftex.def 2021-02-27 v7.00k Hyperref driver for pdfTeX
+
+(C:\Users\Mohamed Abdelaziz\AppData\Local\Programs\MiKTeX\tex/latex/base\atvery
+end-ltx.sty
+Package: atveryend-ltx 2020/08/19 v1.0a Emulation of the original atvery packag
+e
+with kernel methods
+)
+\Fld@listcount=\count274
+\c@bookmark@seq@number=\count275
+
+(C:\Users\Mohamed Abdelaziz\AppData\Local\Programs\MiKTeX\tex/latex/rerunfilech
+eck\rerunfilecheck.sty
+Package: rerunfilecheck 2019/12/05 v1.9 Rerun checks for auxiliary files (HO)
+
+(C:\Users\Mohamed Abdelaziz\AppData\Local\Programs\MiKTeX\tex/generic/uniquecou
+nter\uniquecounter.sty
+Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
+)
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
+86.
+)
+\Hy@SectionHShift=\skip51
+)
+(C:\Users\Mohamed Abdelaziz\AppData\Local\Programs\MiKTeX\tex/latex/caption\sub
+caption.sty
+Package: subcaption 2020/10/07 v1.3j Sub-captions (AR)
+
+(C:\Users\Mohamed Abdelaziz\AppData\Local\Programs\MiKTeX\tex/latex/caption\cap
+tion.sty
+Package: caption 2020/10/26 v3.5g Customizing captions (AR)
+
+(C:\Users\Mohamed Abdelaziz\AppData\Local\Programs\MiKTeX\tex/latex/caption\cap
+tion3.sty
+Package: caption3 2020/10/21 v2.2e caption3 kernel (AR)
+\captionmargin=\dimen162
+\captionmargin@=\dimen163
+\captionwidth=\dimen164
+\caption@tempdima=\dimen165
+\caption@indent=\dimen166
+\caption@parindent=\dimen167
+\caption@hangindent=\dimen168
+Package caption Info: Standard document class detected.
+)
+\c@caption@flags=\count276
+\c@continuedfloat=\count277
+Package caption Info: hyperref package is loaded.
+)
+\c@subfigure=\count278
+\c@subtable=\count279
+)
+(C:\Users\Mohamed Abdelaziz\AppData\Local\Programs\MiKTeX\tex/latex/fontawesome
+5\fontawesome5.sty
+(C:\Users\Mohamed Abdelaziz\AppData\Local\Programs\MiKTeX\tex/latex/l3kernel\ex
+pl3.sty
+Package: expl3 2021-02-18 L3 programming layer (loader) 
+
+(C:\Users\Mohamed Abdelaziz\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l
+3backend-pdftex.def
+File: l3backend-pdftex.def 2021-03-02 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count280
+\l__pdf_internal_box=\box93
+))
+Package: fontawesome5 2020/03/24 v5.13.0 Font Awesome 5
+
+(C:\Users\Mohamed Abdelaziz\AppData\Local\Programs\MiKTeX\tex/latex/l3packages/
+l3keys2e\l3keys2e.sty
+Package: l3keys2e 2021-03-12 LaTeX2e option processing using LaTeX3 keys
+)
+(C:\Users\Mohamed Abdelaziz\AppData\Local\Programs\MiKTeX\tex/latex/l3packages/
+xparse\xparse.sty
+(C:\Users\Mohamed Abdelaziz\AppData\Local\Programs\MiKTeX\tex/latex/l3packages/
+xparse\xparse-2020-10-01.sty
+(C:\Users\Mohamed Abdelaziz\AppData\Local\Programs\MiKTeX\tex/latex/l3packages/
+xparse\xparse-generic.tex)))
+(C:\Users\Mohamed Abdelaziz\AppData\Local\Programs\MiKTeX\tex/latex/fontawesome
+5\fontawesome5-generic-helper.sty
+Package: fontawesome5-generic-helper 2020/03/24 v5.13.0 non-uTeX helper for fon
+tawesome5
+
+(C:\Users\Mohamed Abdelaziz\AppData\Local\Programs\MiKTeX\tex/latex/fontawesome
+5\fontawesome5-mapping.def)))
+(C:\Users\Mohamed Abdelaziz\AppData\Local\Programs\MiKTeX\tex/latex/xcolor\xcol
+or.sty
+Package: xcolor 2016/05/11 v2.12 LaTeX color extensions (UK)
+
+(C:\Users\Mohamed Abdelaziz\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cf
+g\color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: pdftex.def on input line 225.
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1348.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1352.
+Package xcolor Info: Model `RGB' extended on input line 1364.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1366.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1367.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1368.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1369.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1370.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1371.
+)
+(C:\Users\Mohamed Abdelaziz\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\ams
+math.sty
+Package: amsmath 2020/09/23 v2.17i AMS math features
+\@mathmargin=\skip52
+
+For additional information on amsmath, use the `?' option.
+
+(C:\Users\Mohamed Abdelaziz\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\ams
+text.sty
+Package: amstext 2000/06/29 v2.01 AMS text
+
+(C:\Users\Mohamed Abdelaziz\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\ams
+gen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks17
+\ex@=\dimen169
+))
+(C:\Users\Mohamed Abdelaziz\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\ams
+bsy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen170
+)
+(C:\Users\Mohamed Abdelaziz\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\ams
+opn.sty
+Package: amsopn 2016/03/08 v2.02 operator names
+)
+\inf@bad=\count281
+LaTeX Info: Redefining \frac on input line 234.
+\uproot@=\count282
+\leftroot@=\count283
+LaTeX Info: Redefining \overline on input line 399.
+\classnum@=\count284
+\DOTSCASE@=\count285
+LaTeX Info: Redefining \ldots on input line 496.
+LaTeX Info: Redefining \dots on input line 499.
+LaTeX Info: Redefining \cdots on input line 620.
+\Mathstrutbox@=\box94
+\strutbox@=\box95
+\big@size=\dimen171
+LaTeX Font Info:    Redeclaring font encoding OML on input line 743.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 744.
+\macc@depth=\count286
+\c@MaxMatrixCols=\count287
+\dotsspace@=\muskip17
+\c@parentequation=\count288
+\dspbrk@lvl=\count289
+\tag@help=\toks18
+\row@=\count290
+\column@=\count291
+\maxfields@=\count292
+\andhelp@=\toks19
+\eqnshift@=\dimen172
+\alignsep@=\dimen173
+\tagshift@=\dimen174
+\tagwidth@=\dimen175
+\totwidth@=\dimen176
+\lineht@=\dimen177
+\@envbody=\toks20
+\multlinegap=\skip53
+\multlinetaggap=\skip54
+\mathdisplay@stack=\toks21
+LaTeX Info: Redefining \[ on input line 2923.
+LaTeX Info: Redefining \] on input line 2924.
+)
+(C:\Users\Mohamed Abdelaziz\AppData\Local\Programs\MiKTeX\tex/latex/hyphenat\hy
+phenat.sty
+Package: hyphenat 2009/09/02 v2.3c hyphenation utilities
+\langwohyphens=\language79
+LaTeX Info: Redefining \_ on input line 43.
+)
+(C:\Users\Mohamed Abdelaziz\AppData\Local\Programs\MiKTeX\tex/latex/fancyhdr\fa
+ncyhdr.sty
+Package: fancyhdr 2021/01/28 v4.0.1 Extensive control of page headers and foote
+rs
+\f@nch@headwidth=\skip55
+\f@nch@O@elh=\skip56
+\f@nch@O@erh=\skip57
+\f@nch@O@olh=\skip58
+\f@nch@O@orh=\skip59
+\f@nch@O@elf=\skip60
+\f@nch@O@erf=\skip61
+\f@nch@O@olf=\skip62
+\f@nch@O@orf=\skip63
+)
+
+LaTeX Warning: Unused global option(s):
+    [5pt].
+
+(PhaseI.aux)
+\openout1 = `PhaseI.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+
+(C:\Users\Mohamed Abdelaziz\AppData\Local\Programs\MiKTeX\tex/context/base/mkii
+\supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count293
+\scratchdimen=\dimen178
+\scratchbox=\box96
+\nofMPsegments=\count294
+\nofMParguments=\count295
+\everyMPshowfont=\toks22
+\MPscratchCnt=\count296
+\MPscratchDim=\dimen179
+\MPnumerator=\count297
+\makeMPintoPDFobject=\count298
+\everyMPtoPDFconversion=\toks23
+)
+(C:\Users\Mohamed Abdelaziz\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pk
+g\epstopdf-base.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+85.
+
+(C:\Users\Mohamed Abdelaziz\AppData\Local\Programs\MiKTeX\tex/latex/00miktex\ep
+stopdf-sys.cfg
+File: epstopdf-sys.cfg 2021/03/17 v1.0 Configuration of epstopdf for MiKTeX
+))
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: a4paper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(71.13188pt, 455.24411pt, 71.13188pt)
+* v-part:(T,H,B)=(71.13188pt, 702.78308pt, 71.13188pt)
+* \paperwidth=597.50787pt
+* \paperheight=845.04684pt
+* \textwidth=455.24411pt
+* \textheight=702.78308pt
+* \oddsidemargin=-1.1381pt
+* \evensidemargin=-1.1381pt
+* \topmargin=-38.1381pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=10.0pt
+* \footskip=30.0pt
+* \marginparwidth=65.0pt
+* \marginparsep=11.0pt
+* \columnsep=10.0pt
+* \skip\footins=9.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+Package hyperref Info: Link coloring OFF on input line 21.
+
+(C:\Users\Mohamed Abdelaziz\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\na
+meref.sty
+Package: nameref 2021-04-02 v2.47 Cross-referencing by name of section
+
+(C:\Users\Mohamed Abdelaziz\AppData\Local\Programs\MiKTeX\tex/latex/refcount\re
+fcount.sty
+Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
+)
+(C:\Users\Mohamed Abdelaziz\AppData\Local\Programs\MiKTeX\tex/generic/gettitles
+tring\gettitlestring.sty
+Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
+)
+\c@section@level=\count299
+)
+LaTeX Info: Redefining \ref on input line 21.
+LaTeX Info: Redefining \pageref on input line 21.
+LaTeX Info: Redefining \nameref on input line 21.
+ (PhaseI.out) (PhaseI.out)
+\@outlinefile=\write3
+\openout3 = `PhaseI.out'.
+
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: End \AtBeginDocument code.
+<1.png, id=63, 177.66376pt x 146.5475pt>
+File: 1.png Graphic file (type png)
+<use 1.png>
+Package pdftex.def Info: 1.png  used on input line 24.
+(pdftex.def)             Requested size: 99.58464pt x 82.14429pt.
+<2.png, id=64, 200.75pt x 125.46875pt>
+File: 2.png Graphic file (type png)
+<use 2.png>
+Package pdftex.def Info: 2.png  used on input line 30.
+(pdftex.def)             Requested size: 100.37474pt x 62.7342pt.
+LaTeX Font Info:    Trying to load font information for U+fontawesomefree3 on i
+nput line 42.
+
+(C:\Users\Mohamed Abdelaziz\AppData\Local\Programs\MiKTeX\tex/latex/fontawesome
+5\ufontawesomefree3.fd)
+LaTeX Font Info:    Trying to load font information for U+fontawesomefree1 on i
+nput line 71.
+
+(C:\Users\Mohamed Abdelaziz\AppData\Local\Programs\MiKTeX\tex/latex/fontawesome
+5\ufontawesomefree1.fd) [1
+
+{C:/Users/Mohamed Abdelaziz/AppData/Local/MiKTeX/pdftex/config/pdftex.map} <./1
+.png> <./2.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 85--86
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 101--104
+
+ []
+
+
+Overfull \hbox (1.03442pt too wide) in paragraph at lines 109--111
+\OT1/cmr/m/n/10 pe-riod coded ac-cord-ing to ICD-9 multiple-cause-of-death pro-
+ce-dures for all 4,497 dece-dents iden-ti-fied
+ []
+
+
+Overfull \hbox (2.02324pt too wide) in paragraph at lines 116--117
+\OT1/cmr/m/n/10 na-tional prob-a-bil-ity sam-ple of the civil-ian non-instituti
+onalized pop-u-la-tion. The NHANES I Epi-demi-o-logic
+ []
+
+pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has 
+been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.118 \newpage
+               [1]
+Underfull \hbox (badness 10000) in paragraph at lines 131--132
+[]\OT1/cmr/m/n/10 Sedimentation
+ []
+
+
+Overfull \hbox (8.69183pt too wide) in paragraph at lines 167--168
+\OT1/cmr/m/n/10 Feature scal-ing is es-sen-tial for ma-chine learn-ing al-go-ri
+thms that cal-cu-late dis-tances be-tween data. There-fore,
+ []
+
+
+Overfull \hbox (8.81235pt too wide) in paragraph at lines 167--168
+\OT1/cmr/m/n/10 the range of all fea-tures should be nor-mal-ized so that each 
+fea-ture con-tributes ap-prox-i-mately pro-por-tion-ately
+ []
+
+
+Overfull \hbox (25.02519pt too wide) in paragraph at lines 182--183
+[]\OT1/cmr/m/n/10 applied af-ter the model has been fit-ted. It se-lects each f
+ea-ture col-umn one at a time and shuf-fles/permutate
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 187--188
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 189--190
+
+ []
+
+[2]
+Underfull \hbox (badness 10000) in paragraph at lines 243--244
+
+ []
+
+[3] (PhaseI.aux)
+Package rerunfilecheck Info: File `PhaseI.out' has not changed.
+(rerunfilecheck)             Checksum: B87B28C27EBEC4D7A90EAEE2D68CD979;2951.
+ ) 
+Here is how much of TeX's memory you used:
+ 13946 strings out of 479325
+ 235849 string characters out of 2851092
+ 532870 words of memory out of 3000000
+ 31227 multiletter control sequences out of 15000+200000
+ 409434 words of font info for 48 fonts, out of 3000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 71i,11n,77p,630b,343s stack positions out of 5000i,500n,10000p,200000b,50000s
+ <C:\Users\Mohamed Abdelaziz\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec
+/dpi600\tcrm1000.pk>{C:/Users/Mohamed Abdelaziz/AppData/Local/Programs/MiKTeX/f
+onts/enc/dvips/fontawesome5/fa5free1.enc}{C:/Users/Mohamed Abdelaziz/AppData/Lo
+cal/Programs/MiKTeX/fonts/enc/dvips/fontawesome5/fa5free3.enc}<C:/Users/Mohamed
+ Abdelaziz/AppData/Local/Programs/MiKTeX/fonts/type1/public/fontawesome5/FontAw
+esome5Free-Solid.pfb><C:/Users/Mohamed Abdelaziz/AppData/Local/Programs/MiKTeX/
+fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Users/Mohamed Abdelaziz/AppData/L
+ocal/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/Mohame
+d Abdelaziz/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.
+pfb><C:/Users/Mohamed Abdelaziz/AppData/Local/Programs/MiKTeX/fonts/type1/publi
+c/amsfonts/cm/cmr12.pfb>
+Output written on PhaseI.pdf (4 pages, 143378 bytes).
+PDF statistics:
+ 125 PDF objects out of 1000 (max. 8388607)
+ 22 named destinations out of 1000 (max. 500000)
+ 131 words of extra memory for PDF output out of 10000 (max. 10000000)
+
